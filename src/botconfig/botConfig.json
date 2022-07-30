@@ -1,0 +1,21 @@
+{
+    "name": "The Sexy Nigga's bot",
+    "author": "PeterGG",
+    "version": "1.0",
+    "token": "OTk5MzQwNjk3MzEwMjIwNDIw.G-_Lq1.s-sZGtY-7I60o_J2A3sLY3_mohwL9VJ9_X082A",
+
+    "presence": {
+            "duration": 10000,
+            "randomize": false,
+            "presence": [
+                {
+                    "activity": "/help",
+                    "type": 2
+                },
+                {
+                    "activity": "The Sexy Nigga's",
+                    "type": 3
+                }
+            ]
+    }
+}
